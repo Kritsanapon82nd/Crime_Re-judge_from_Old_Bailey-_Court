@@ -76,7 +76,7 @@ exceeds GitHub’s 100 MB file size limit and is therefore hosted externally.
 
 ### 📥 Full Ensemble Setup
 
-1. Download the model from Google Drive:
+1. Download the Random Forest model from Google Drive:
    https://drive.google.com/drive/folders/1d_Gesv6K4fmdoQLYn2D4awob4sRp6710?usp=sharing
 
 2. Place the file in the project root directory (same level as `app.py`)
