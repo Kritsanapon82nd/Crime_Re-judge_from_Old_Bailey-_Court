@@ -95,8 +95,8 @@ If the Random Forest model is not detected:
 ### 1. Clone Repository
 
 ```bash
-git clone <your-github-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/Kritsanapon82nd/Crime_Re-judge_from_Old_Bailey-_Court.git
+cd Crime_Re-judge_from_Old_Bailey-_Court
 ```
 
 ### 2. Create Virtual Environment
@@ -143,10 +143,6 @@ Adjust variables such as:
 ### 4. Generate Verdict
 
 Click **"Run Time Machine"** to simulate outcomes across multiple legal eras
-
-## 🖼️ Demo *(Optional)*
-
-![App Screenshot](assets/demo.png)
 
 ## 🎯 Key Insights
 
